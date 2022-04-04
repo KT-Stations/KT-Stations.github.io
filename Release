@@ -1,0 +1,12 @@
+Origin: KT-Stations
+Label: KT-Stations
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: CrackeD iOS App
+
+SHA256:
+ 834d85841e3027d2da30be2401f0769799bb9dc5f68a53bd5327b05d2084bebf 8558 Packages.bz2
+ a560eff9166420e52ceb8fa1086891407873f6a6be87ff738a934414a29deb4c 8876 Packages.xz
